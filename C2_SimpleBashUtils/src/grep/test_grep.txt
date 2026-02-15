@@ -1,0 +1,31 @@
+int main() {
+    return 0;
+}
+
+INT MAIN() {
+    RETURN 1;
+}
+
+main function starts here
+
+Main should not match without -i
+
+return value
+ -free
+
+12345
+main123
+123main
+
+special_chars_.*+?^$
+regex_like_[abc]
+
+empty line follows:
+
+    
+tabs	and	spaces
+
+^caret
+dollar$
+dot.te\st
+starrrrr
